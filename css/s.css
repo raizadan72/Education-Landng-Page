@@ -1,0 +1,88 @@
+.logo {
+    color: blueviolet;
+    font-size: 10px;
+    float: left;
+}
+
+.nav-bar{
+    font-size: 15px;
+    float: right;
+    display: flex;
+    list-style: none;
+    
+}
+.nav-link{
+    padding: 20px;
+}
+.edu{
+    width: 100%;
+    height: 500px;
+	object-fit: cover;
+}
+body{
+    background-color: rgb(151, 223, 223)
+}
+.nav{
+    font-size: 20px;
+    float: right;
+    display: flex;
+    list-style: none;
+    color: rgb(233, 233, 241);
+}
+
+.col{
+    color: rgb(131, 5, 250);
+    font-size: 20px;
+}
+
+.ccc {
+    color: brown;
+}
+
+.bg_nav{
+    margin: auto;
+}
+
+.bg_nav a{
+    color: black;
+}
+
+.bg_nav :hover{
+    font-size: 20px;
+    color: red;
+    background-color: lightblue;
+    box-shadow: 0lh;
+    padding: 10px 10px;
+}
+
+.car {
+    background-color: white;
+    height: 300px;
+    padding: 15px;
+}
+
+.bar{
+    background-color: white;
+    height: 300px;
+    padding: 15px;
+}
+
+.card{
+    background-color: white;
+    height: 300px;
+
+    padding: 15px;
+}
+.zeee{
+    height: 600px;
+    padding: 15 15px;
+}
+
+.image{ 
+    background-image: url("/Demo-project/images/8-2-education-transparent.png");
+    padding: 20px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}

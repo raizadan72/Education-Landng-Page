@@ -1,0 +1,787 @@
+body{
+    background-color: blueviolet
+    color: #000;
+}
+.edu{
+    color: red;
+    padding-top: 60px;
+    padding-left: 40px;
+}
+.had{
+    padding: 10px;
+    font-family: cursive;
+}
+
+span{
+    text-align: right;
+    
+}
+.dropbtn{
+    color: #000;
+    background-color: #fff;
+    
+}
+
+.dropbt{
+    background-color: rgb(250, 12, 92);
+}
+ 
+.chart{
+    size: 30px;
+    padding: 30px;
+}
+
+.car{
+    width: 20px;
+    
+}
+
+.care{
+    color: red;
+    padding-top:   30px;
+}
+
+.cour{
+    padding: 60px;
+}
+
+.video_outer > iframe{
+    width:100%; 
+    
+}
+.data{
+    color: rgb(34, 12, 116);
+    padding-top: 10px;
+    
+}
+
+.date{
+    padding-top: 30px;
+
+}
+
+
+
+
+.demate{
+    color: blue;
+    /* padding-top: 10px; */
+    padding-right: 10px;
+    
+}
+.thr{
+    
+    color: blue;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.red{
+
+    color: red;
+    
+}
+
+.demate span{
+    color: red;
+}
+
+.edu4{
+    color: rgb(197, 20, 49);
+    padding-top: 30px;
+}
+
+.edu5{
+    padding-top: 30px;
+}
+
+.edu6{
+    padding-top: 30px;
+}
+
+._nav{
+    padding: 10px 20px;
+    color: red;
+}
+.us{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+/* .topnav{
+    display: flex;
+    padding-top: 30px;
+} */
+
+.drop{
+    display: flex;
+
+}
+
+.igs{
+    width: 20px;
+
+}
+.flex{
+    color: rgb(62, 4, 197);
+    padding-left: 20px;
+    
+}
+
+.checked {
+    color: orange;
+  }
+  
+.sty{
+    display: flex;
+    
+    
+
+}
+
+.about{
+    padding-top: 70px;
+   
+}
+.about1{
+    padding-top: 70px;
+    color: red;
+}
+.about2 > span{
+    padding-top: 30px;
+    color: rgb(218, 212, 212);
+    text-decoration: underline; 
+}
+
+.pl-3, .px-3{
+    padding-top: 30px;
+    color: rgb(16, 137, 218);
+}
+.about4{
+    padding-top: 30px;
+}
+
+.about5{
+    padding-top: 30px;
+}
+.about6{
+    padding-top: 30px;
+}
+.text{
+    padding-top: 50px;
+}
+
+.list2{
+    padding-top: 50px;
+    text-align: right;
+
+}
+
+.list{
+    padding-top: 50px;
+}
+
+.sss{
+    padding-top: 30px;
+    padding-bottom: 35px;
+    font-family: cursive;
+       
+}
+.sss  span{
+    text-decoration: underline; 
+
+}
+.thr{
+    text-decoration: line-through;
+}
+.button{
+    color: rgb(199, 57, 5);
+}
+
+.card4{
+    color: rgb(0, 255, 115);
+}
+.craja{
+    color: yellow;
+}
+.car-body{
+    
+}
+.card_aman{
+    background-color: brown;
+}
+.featured-cards{
+    display: flex;
+}
+.price-outer{
+    display: flex;
+    align-items: center;
+}
+
+.outer-card{
+    height: 70px;
+
+}
+.Coursces_outer{
+    margin-top: 55px;
+    
+}
+.text{
+    font-family: cursive;
+}
+
+.rating{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+.rate{
+    display: flex;
+    justify-content:space-between ;
+    padding: 10px;
+    align-items: center;
+}
+
+.all{
+    display: flex;
+    padding-top: 10 10px;
+}
+
+ul#lis li{
+    display: inline;
+    padding-top: 10 20px;
+}
+
+.php0{
+    display: inline-flex;
+    font-family: cursive;
+    list-style-type: none;
+    margin-left: -30px;
+}
+
+.php1{
+    display: inline-flex;
+    font-family: cursive;
+    list-style-type: none;
+    margin-left: -10px;
+}
+
+.big{
+    padding-left: 25px;
+}
+
+.bg0{
+    padding-left: 30px;
+}
+
+.bg01{
+    padding-left: 15px;
+    text-decoration: line-through;
+}
+
+.price-outer span{
+    padding-left: 25px;
+    color: red;
+    text-decoration: line-through;
+}
+.w3{
+    width: 50px;
+    padding-top: 15px;
+    padding-left: 20px;
+    
+}
+.mic{
+    padding-top: 50px;
+    padding-left: 15px;
+    text-align: justify;
+    color: #000;
+}
+
+.sst{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 60PX;
+}
+
+.number{
+    display: inline-flex;
+    list-style: none;
+    margin-left: 10px;
+
+}
+
+
+.number1{
+    display: inline-flex;
+    list-style: none;
+    margin-left: 10px;
+}
+
+.c1{
+    display: flex;
+    margin-left: -25px;
+}
+.c2{
+    display: flex;
+    display: inline;
+    list-style: none;
+}
+.p-subjects{
+    background: #fff;
+    border: 0;
+    box-shadow: 0 0 50px 10px rgba(95, 45, 237, 0.15);
+    border-radius: 10px;
+    padding: 25px;
+}
+.p-subjects h4{
+    font-size: 20px;
+    margin-top: 10px;
+    text-transform: capitalize;
+    color: #000;
+}
+.p-subjects a{
+    color: gray;
+    font-size: 18px;
+    text-decoration: none;
+}
+.p-subjects > i{
+    color:red;
+    font-size: 45px;
+}
+.p-subjects:hover{
+    background-color: blue;
+}
+.p-subjects:hover i,
+.p-subjects:hover h4,
+.p-subjects:hover a{
+    color:#fff;
+}
+
+.p-subjects2{
+    background-color: white;
+    border: 0;
+    box-shadow: 0 0 50px 10px rgba(95, 45, 237, 0.15);
+    border-radius: 10px;
+    padding: 25px;
+}
+.p-subjects2 h4{
+    font-size: 20px;
+    margin-top: 20px;
+    text-transform: capitalize;
+    color: #000;
+}
+.p-subjects2 a{
+    color: yellowgreen;
+    font-size: 18px;
+    text-decoration: none;
+}
+.p-subjects2 > i{
+    color: red;
+    font-size: 45px;
+}
+.p-subjects2:hover{
+    background-color: coral;
+}
+.p-subjects2:hover i,
+.p-subjects2:hover h4,
+.p-subjects2:hover a{
+    color: #000;
+}
+.tab-content-inner{
+    display: flex;
+    flex-wrap: wrap;
+}
+.content-item{
+    width: 31.33%;
+    margin:10px 1%;
+}
+.content-item > img{
+    padding: 15px;
+}
+
+.ab-book{
+    padding-left: 15px;
+    padding-top: 20px;
+}
+.ab-book > span{
+    padding-left: 120px;
+}
+.abc1{
+    padding-top: 20px;
+}
+.price-outer{
+    padding-top: 20px;
+}
+.abc3{
+    text-decoration: line-through;
+    color: dimgray;
+}
+.a-book >span{
+padding-left: 130px;
+}
+.a-book{
+    padding-top: 20px;
+}
+
+.igs{
+    border-radius: 10px;
+}
+.sty > span{
+    padding-left: 6px;
+}
+.sty >a{
+    padding-left: 6px;
+}
+.bg_div{
+    color: blue;
+}
+
+.bg_div>h4{
+    padding-top: 70px;
+}
+.btn-btn-primary{
+    border-radius: 30px;
+    padding-top: 20px;
+}
+
+.hhh{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+.reg{
+    padding-top: 80px;
+    padding-left: 15px;
+}
+
+.expert{
+    padding-left: 400px;
+    padding-top: 60px;
+    color: orangered;
+}
+
+.teacher{
+    padding-left: 350px;
+    padding-top: 12px;
+    color: black;
+}
+.regi{
+    color: #fff;
+    padding-left: 30px;
+}
+
+.regi>span{
+    color: goldenrod;
+}
+
+.col-md-8>span{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.flex{
+    padding-top: 40px;
+}
+
+.newimg{
+    padding-bottom: 40px;
+    padding-right: 20px;
+}
+
+.flex p{
+    color: #fff;
+}
+
+.hilight{
+    padding-top: 60px;
+    color: red
+}
+
+.star{
+    background-color: blue;
+    padding: 100px 0;
+}
+
+
+.round{
+    padding-top: 30px;
+}
+
+
+
+.starr2{
+    color: white;
+    padding-right: 10px;
+}
+
+
+
+.st3{
+    color: goldenrod;
+}
+
+
+.round>h6{
+    color: white;
+    display: inline-block;
+    
+}
+
+.regs{
+padding-top: 50px;
+padding-left: 50px;
+}
+
+.star_btn{
+    background: gray;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    display: inline-block;
+    
+}
+
+.newspan{
+    text-decoration: underline;
+     text-decoration-color: goldenrod;
+}
+
+.form-group{
+    margin-left: 10%;
+    margin-right: 7%;
+
+}
+
+.form-control{
+    background-color: oldlace
+}
+
+.form-group1{
+    margin-left: 10%;
+    margin-top: 60px;
+
+}
+
+.btn-btn-info{
+    background-color: blue;
+    
+}
+
+.block{
+    background-color: blue;
+    color: aliceblue;
+    margin-bottom: 20px;
+
+}
+
+.learn{
+    padding-right: 60px;
+}
+
+.learn>i{
+    margin-right: 30px;
+
+}
+
+.round>h6{
+    display: flex;
+}
+
+.dec{
+    padding-top: 30px;
+    padding-left: 50px;
+    
+}
+
+.nam{
+    color: dimgrey;    
+      
+}
+
+.font{
+    background-color: cornsilk
+}
+.sign-up-btn{
+    border:1px solid blue;
+    padding:10px 15px;
+    background: blue;
+    color: #fff;
+}
+.sign-up-btn:hover{
+    background-color: transparent;
+    color: blue;
+}
+
+.Teachers{
+    background-color: aliceblue;
+    padding: 100px 0;
+}
+
+.Teachers>card{
+    background-color: aquamarine;
+}
+
+.pera{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.imgz{
+    padding-left: 45px;
+}
+
+.dec:hover{
+    
+    color: red;
+}
+
+.Expart{
+    text-align: center;
+}
+
+.Expart2{
+    text-align: center;
+}
+.butt>button{
+    border-style: hidden;
+    text-align: center;
+}
+
+
+.type>button{
+    border: thin;
+    text-align: center;
+}
+
+.ho{
+    padding-top: 20px;
+    color: blue;
+}
+
+.ho:hover{
+    color: brown;
+}
+
+.hov{
+    padding-top: 20px;
+    color: blue
+}
+
+.hov:hover{
+    color: red;
+}
+
+.hove:hover{
+    color: red;
+}
+
+.hove{
+    padding-top: 20px;
+    color: black;
+}
+
+.algo{
+    color: chocolate;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.algo:hover{
+    color: blue;
+}
+
+.anker
+{padding-top: 40px;
+padding-left: 50px;
+color: crimson;
+}
+
+.anker:hover{
+    color: darkblue;
+}
+
+.jamana{
+    color: blue;
+    font-size: large;
+    font-style: initial;
+    padding-left: 30px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+}
+
+.jamana:hover{
+    color: brown;
+}
+
+.usd{
+    color: chocolate;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+.usd>span{
+    color: darkblue;
+     text    
+}
+
+
+.imgz>butt{
+    padding-right: 15px;
+}
+
+.first:hover{
+    color: blue;
+}
+
+.first{
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.anker{
+    padding-top: 30px;
+}
+
+.elep{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.light{
+    padding-left: 40px;
+    padding-top: 30px;
+    color: cadetblue;
+}
+
+.eedduu{
+    padding-left: 40px;
+    color: red;
+    padding-top: 30px;
+}
+
+.ddd{
+    background-color: antiquewhite;
+}
+
+.aaa{
+    padding-top: 40px;
+}
+
+.bbbc{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.mid{
+    padding-left: 40px;
+    
+}
+
+.mi{
+    padding-left: 40px;
+    display: inline;
+    
+}

@@ -1,0 +1,44 @@
+
+
+.nav { 
+    background-color: rgb(227, 222, 240);
+    padding: 15px 0;
+}
+.logo{
+    color: blueviolet;
+    font-size: 35px;
+}
+
+ul{
+    list-style:none;
+    display: flex !important;
+}
+
+li{
+    padding: 10px 10px;
+}
+#nav_{
+    float: right;
+}
+
+.banner{
+	background-image: url('../images/lone10.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+	min-width: 100%;
+	min-height: 100vh;  
+}
+
+.bannertaitel { 
+    color: white;
+font-size: 50px;
+text-align: center;
+margin-top: 200px;
+
+
+}
+
+.logo2{ 
+	color: #fff;
+	font-size: 30px;
+}	

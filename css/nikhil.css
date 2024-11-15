@@ -1,0 +1,63 @@
+.logo{ 
+	color: rgb(233, 102, 102);
+	font-size: 60px;
+}	
+.nav-bar{
+	float: right;
+	list-style:none;
+	display:flex;
+	justify-content:end;
+	margin: 10px;
+	font-size: 30px;
+}
+.nav-link{
+	padding: 20px !important;
+}
+.lone { 
+	width: 100%;
+    height: 240px;
+	object-fit: cover;
+}
+
+header{
+	background-color: rgb(226, 181, 216);
+}
+body{
+	background-color: rgb(236, 184, 146);
+}
+
+.lone5{
+	width: 125%;
+
+}
+
+.ze{
+	width: 100%;
+    height: 400px;
+	object-fit: cover;
+
+}
+
+.zeee{
+	width: 110%;
+    height: 700px;
+	object-fit: cover;
+}
+
+footer {
+	text-align: center;
+	padding: 10px;
+	background-color: rgb(221, 67, 16);
+	color: white;
+	
+  }
+
+  .nav{
+	padding: 5px;
+	list-style:none;
+	display:flex;
+	justify-content:end;
+	margin: 5px;
+	font-size: 10px;
+
+  }

@@ -1,0 +1,20 @@
+.video-cta {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    color: #dddddd;
+}
+
+.video-cta a {
+    background-color: #3186FB;
+    padding: 18px 108px 18px 108px;
+    font-size: 24px;
+    color: #fff !important;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.video-cta a:hover {
+    color: #fff !important;
+}
